@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* .sidebar ul li{
+    margin-top: 20px;
+} */
+
+.app {
+    background-color: rgb(216, 187, 187);
+}
